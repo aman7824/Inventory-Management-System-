@@ -299,7 +299,7 @@ Example:
 
 # 👨‍💻 Author
 
-## Ansari Aman
+## Aman Ansari
 
 **Software Engineer | Python Developer | Full-Stack Developer**
 
@@ -309,7 +309,7 @@ Example:
 
 * **GitHub:** https://github.com/YOUR_USERNAME
 * **LinkedIn:** https://linkedin.com/in/YOUR_USERNAME
-* **Portfolio:** https://YOUR_PORTFOLIO_URL
+* **Portfolio:** https://ansariamanvfx5.netlify.app/
 
 ---
 

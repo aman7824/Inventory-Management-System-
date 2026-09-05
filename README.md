@@ -271,22 +271,21 @@ Add application screenshots here to showcase the project.
 
 Recommended screenshots:
 ## Register page 
- <img src="screen_shot/register.PNG" width="600"/>
- ## Login Page
+  <img src="screen_shot/register.PNG" width="600"/>
+## Login Page
   <img src="screen_shot/login.PNG" width="600"/>
-  ## Dashboard
-  <img src="screen_shot/dashboard.PNG" width="600"/>
+## Dashboard
+   <img src="screen_shot/dashboard.PNG" width="600"/>
 ## customer page
     <img src="screen_shot/customers.PNG" width="600"/>
-  
 ## Product Management
   <img src="screen_shot/products.PNG" width="600"/>
-  ## Purchase page
+## Purchase page
    <img src="screen_shot/purchase.PNG" width="600"/>
 ## Sales
    <img src="screen_shot/sales.PNG" width="600"/>
-   ## Vender 
-<img src="screen_shot/vendors.PNG" width="600"/>
+## Vender 
+  <img src="screen_shot/vendors.PNG" width="600"/>
 ## report
    <img src="screen_shot/reports.PNG" width="600"/>
 

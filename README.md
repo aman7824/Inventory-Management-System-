@@ -271,7 +271,7 @@ Add application screenshots here to showcase the project.
 
 Recommended screenshots:
 
-* Login Page       <img src="project ss/screen_shot/login.PNG" width="600"/>
+* Login Page       <img src="screen_shot/login.PNG" width="600"/>
 * Admin Dashboard
 * Product Management
 * Category Management
